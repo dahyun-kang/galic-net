@@ -1,1 +1,1 @@
-# galic-net
+# garlic-net
